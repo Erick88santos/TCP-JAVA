@@ -16,4 +16,4 @@
 # ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=EXERCÍCIOS&message=%20DESENVOLVIDOS&color=8B008B&style=for-the-badge)
 
 
-### Conection Socket udp with ![](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&logoWidth=30)
+### Conection Socket udp with ![](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
