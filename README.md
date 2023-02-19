@@ -1,7 +1,7 @@
 # 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIDO&color=00875e&style=for-the-badge)
-#  <div align="center"> SOCKET UDP COM O JAVA </div>
+#  <div align="center"> SOCKET TCP COM O JAVA </div>
 
 
 
